@@ -1,0 +1,1 @@
+Text input that format into any ff: Uppercase, LowerCase, Capital, Bold, Italic & Underline

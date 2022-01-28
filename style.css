@@ -1,0 +1,83 @@
+
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+#inputText {
+
+  font-size: 32px;
+}
+
+#inputText:focus {
+  outline: none;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: center;
+
+}
+
+button {
+  margin: 2px;
+}
+
+#outputText {
+  font-size: 32px;
+  font-weight: 400px;
+  padding-left: 140px;
+  padding-right: 140px;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+#uppercase {
+  color: white;
+  font-size: 32px;
+  background-color: red;
+}
+
+#lowercase {
+  color: white;
+  font-size: 32px;
+  background-color: grey;
+}
+
+#capital {
+  color: white;
+  font-size: 32px;
+  background-color: orangered;
+}
+
+#bold {
+  color: white;
+  font-size: 32px;
+  background-color: green;
+}
+
+#italic {
+  background-color: purple;
+  color: white;
+  font-size: 32px;
+}
+
+#underline {
+  background-color: blue;
+  color: white;
+  font-size: 32px;
+  text-decoration: underline;
+}
